@@ -1,11 +1,11 @@
 # ![logo](assets/logo_jabalies.jpg)
 
-Club de corredores en Ensenada, México.
-
+<big>
 - Entrena a tu ritmo. Si te gusta entrenar en manada, entrena con otros jabalíes. También puedes entrenar por tu cuenta.
 - Participa en las carreras que quieras dándole prioridad a las del Serial Atlético Ensenada.
 - Convive con los demás de manera amable y respetuosa.
 - Sobre todo, disfruta y diviértete corriendo.
+</big>
 
 ## Redes Sociales
 - [Facebook
