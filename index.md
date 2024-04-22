@@ -1,4 +1,4 @@
-# Jabalíes Running Team
+# ![](assets/logo_jabalies.jpg | width=100)
 
 Club de corredores en Ensenada, México.
 
