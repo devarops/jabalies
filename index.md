@@ -1,4 +1,4 @@
-# ![logo](assets/logo_jabalies.jpg | width=100)
+![logo](assets/logo_jabalies.jpg | width=100)
 
 ![logo](assets/logo_jabalies.jpg)
 
