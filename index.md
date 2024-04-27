@@ -3,7 +3,8 @@
 ## ¡Te damos la bienvenida a la piara de jabalíes!
 
 _Jabalíes Running Team_ es una comunidad de corredores que valoramos tanto la salud física como mental, el compañerismo y el entrenamiento tenaz.
-Somos una piara que corre hacia un futuro más saludable y feliz, cada paso fortaleciendo nuestro vínculo y nuestro compromiso compartido con el bienestar integral.
+Somos una piara que corre hacia un futuro más saludable y feliz.
+Cada paso fortalece nuestro vínculo y nuestro compromiso compartido con el bienestar integral.
 
 En el equipo reconocemos que cada persona tiene su propio ritmo de entrenamiento.
 Si te gusta la compañía, puedes unirte a sesiones de entrenamiento junto con otros jabalíes.
@@ -22,7 +23,7 @@ Juntos, nos animamos, nos apoyamos y celebramos cada logro, grande o pequeño, e
 
 - [Facebook
 ](https://facebook.com/61556552277569/)
-- [Istagram](https://www.instagram.com/jabalies_running_team_/)
+- [Instagram](https://www.instagram.com/jabalies_running_team_/)
 - [Strava](https://www.strava.com/clubs/jabalies)
 
 ## Páginas
