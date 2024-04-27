@@ -4,7 +4,7 @@
 
 _Jabalíes Running Team_ es una comunidad de corredores que valoramos tanto la salud física como mental, el compañerismo y el entrenamiento tenaz.
 Somos una piara que corre hacia un futuro más saludable y feliz.
-Cada paso fortalece nuestro vínculo y nuestro compromiso compartido con el bienestar integral.
+Cada zancada fortalece nuestro vínculo y nuestro compromiso compartido con el bienestar integral.
 
 En el equipo reconocemos que cada persona tiene su propio ritmo de entrenamiento.
 Si te gusta la compañía, puedes unirte a sesiones de entrenamiento junto con otros jabalíes.
