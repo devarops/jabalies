@@ -1,4 +1,4 @@
-![image](https://github.com/devarops/jabalies/assets/3461018/bd2b974a-04a0-4ae3-80b9-0a50d22b4be5)## Anuncios
+## Anuncios
 
 - Este es un anuncio
 - Este es otro anuncio
