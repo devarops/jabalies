@@ -6,7 +6,7 @@ description: En manada avanzamos y con esfuerzo triunfamos.
 theme: jekyll-theme-merlot
 ---
 
-# Código de Conducta convenido para Contribuyentes
+# Código de Conducta
 
 ## Nuestro compromiso
 
