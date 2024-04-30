@@ -32,4 +32,4 @@
 ## Páginas
 
 - Nuestra filosofía
-- Código de conducta
+- [Código de conducta](/conducta)
