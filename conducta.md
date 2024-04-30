@@ -3,8 +3,8 @@ layout: page
 title: Codigo de Conducta
 tagline: Jabalíes Running Team
 description: En manada avanzamos y con esfuerzo triunfamos.
+theme: jekyll-theme-merlot
 ---
-
 
 # Código de Conducta convenido para Contribuyentes
 
