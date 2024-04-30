@@ -37,7 +37,7 @@ Ejemplos de comportamiento inaceptable:
 
 ## Aplicación de las responsabilidades
 
-En caso de una falta a nuestro código de conducta, nuestro capitán, Jonatan Orozco, formará un comité para evaluar la situación.
+En caso de una falta a nuestro código de conducta, Jonathan Orozco formará un comité para evaluar la situación.
 El comité de la comunidad es responsable de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomará acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
 
 El comité de la comunidad tendrá el derecho y la responsabilidad de eliminar o editar mensajes y otras contribuciones que no se alineen con este Código de Conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado.
