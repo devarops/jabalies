@@ -1,3 +1,10 @@
+---
+layout: page
+title: Nuestra filosofía
+tagline: Jabalíes Running Team
+description: En manada avanzamos y con esfuerzo triunfamos.
+---
+
 ## Nuestra filosofía
 
 _Jabalíes Running Team_ es una comunidad de corredores que valoramos tanto la salud física como mental, el compañerismo y el entrenamiento tenaz.
