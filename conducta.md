@@ -49,7 +49,7 @@ Ejemplos de esto incluyen publicaciones a través del grupo de WhatsApp o redes 
 
 ## Aplicación
 
-Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas al comité de la comunidad responsable del cumplimiento a través del correo `jonathan.orozco@uabc.edu.mx`. Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
+Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas al comité de la comunidad responsable del cumplimiento a través del correo `jabalies.running.team@gmail.com`. Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
 
 El comité de la comunidad está obligado a respetar la privacidad y la seguridad de quienes reporten incidentes.
 
