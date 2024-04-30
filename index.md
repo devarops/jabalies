@@ -29,3 +29,7 @@ Juntos, nos animamos, nos apoyamos y celebramos cada logro, grande o pequeño, e
 <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/1236727/latest-rides/068a659becb02be8ec9f63cdaa0f4fee5b97a469?show_rides=false' width='300'></iframe>
 
 <iframe allowtransparency frameborder='0' height='454' scrolling='no' src='https://www.strava.com/clubs/1236727/latest-rides/068a659becb02be8ec9f63cdaa0f4fee5b97a469?show_rides=true' width='300'></iframe>
+
+---
+
+&nbsp;
