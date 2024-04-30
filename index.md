@@ -21,6 +21,7 @@ Juntos, nos animamos, nos apoyamos y celebramos cada logro, grande o pequeño, e
 
 ## Páginas
 
+- [Guía de procedimientos](/procedimientos)
 - [Código de conducta](/conducta)
 
 ## Strava
