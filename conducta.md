@@ -44,7 +44,8 @@ El comité de la comunidad tendrá el derecho y la responsabilidad de eliminar o
 
 ## Alcance
 
-Este código de conducta aplica tanto a plataformas digitales como a espacios públicos donde un individuo esté en representación de nuestra comunidad de corredores y corredoras jabalíes. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos.
+Este código de conducta aplica tanto a plataformas digitales como a espacios públicos donde un individuo esté en representación de nuestra comunidad de corredores y corredoras jabalíes.
+Ejemplos de esto incluyen publicaciones a través del grupo de WhatsApp o redes sociales, y participación en entrenamientos o carreras.
 
 ## Aplicación
 
