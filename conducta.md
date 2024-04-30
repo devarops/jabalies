@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Codigo de Conducta
 tagline: Jabalíes Running Team
 description: En manada avanzamos y con esfuerzo triunfamos.
