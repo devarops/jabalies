@@ -5,7 +5,7 @@ tagline: Jabalíes Running Team
 description: En manada avanzamos y con esfuerzo triunfamos.
 ---
 
-# Procedimientos y rituales
+# Procedimientos y Rituales
 
 ## Apadrinamiento
 
