@@ -23,7 +23,7 @@ Sin embargo, todos los jabalíes veteranos apoyaremos al jabalí novato para que
 
 Después de cada carrera, otorgamos un pin distintivo a los participantes.
 Este reconocimiento simbólico es para motivar a los miembros del equipo a participar en las carreras, especialmente las del Serial Atlético de Ensenada.
-Cuando un miembro acumule 10 pines distintivos, tendrá derecho a comprar una camiseta especial.
+Cuando un miembro acumule 10 pines distintivos, tendrá derecho a portar una camiseta especial.
 
 ---
 
