@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=https://facebook.com/61556552277569" />
+
 **Jabalíes Running Team** es una comunidad de corredores que valoramos tanto la salud física como mental, el compañerismo y el entrenamiento tenaz.
 Cada zancada fortalece nuestro vínculo y nuestro compromiso compartido con el bienestar integral.
 
